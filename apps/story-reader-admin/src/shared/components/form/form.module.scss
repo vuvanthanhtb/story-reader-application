@@ -1,0 +1,13 @@
+.form-container {
+  .form-required {
+    color: #d70e0e;
+    margin-left: 5px;
+  }
+
+  .form-btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-top: 27px;
+  }
+}
