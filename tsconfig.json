@@ -2,5 +2,15 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./apps/story-reader-web"
+    },
+    {
+      "path": "./apps/story-reader-admin"
+    },
+    {
+      "path": "./apps/story-reader-api"
+    }
+  ]
 }
